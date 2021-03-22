@@ -3,7 +3,7 @@
   }
   /* Main colors for portfolio */
   :root {
-    --primary: rgb(134, 91, 97);
+    --primary: rgb(91, 134, 134);
     --secondary: rgba(146, 204, 206, 1);
     --tertiary: rgba(49, 52, 61, 1);
     --dark: rgba(28, 29, 33, 1);
@@ -16,6 +16,9 @@
       font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       color: var(--primary);
       line-height: 1.5;
+      background-image:url(./Turquoise-HD-Wallpaper-Background-Image-2560x1600-ID-.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
     }
     
     h1,
@@ -40,7 +43,7 @@
       align-items: center;
       background-color: var(--tertiary);
       box-shadow: 0 5px 35px rgba(40, 42, 42, 0.4);
-      border-radius: 20px;
+      /* border-radius: 20px; */
     }
     /*created id for border radius editing  */
     .rounder{
@@ -55,7 +58,6 @@
       font-size: 4vw;
       text-emphasis-color:(black) ;
       line-height: 1;
-      border-radius: 20px;
     }
     
     nav {
@@ -84,7 +86,7 @@
     }
     
     nav a:hover {
-      background-size: 100% 100%;
+      background-size: 100%,100%;
       color: var(--primary);
     }
     
@@ -95,17 +97,16 @@
       border: 5px solid var(--secondary);
       background-color: var(--tertiary);
       color: var(--tertiary);
-      min-height: 700px;
-      max-height: 700px;
+      min-height: 500px;
       max-width: 50%;
-      min-width:100% ;
       display:flex;
       flex-basis: calc(1em);
       align-items: center;
       padding: 0 0 10px 0;
-      margin: 0.5em;
+      margin-left: 25%;
+      margin-bottom: 120px;
       background-blend-mode:light-soft;
-      background-image:url("./assets/Andre_Headshot_Shot3.jpg");
+      background-image:url("./Andre_Headshot_Shot3\ copy\ 2.jpg");
       border-image-width: 20px;
       background-size: cover;
       background-position: center;
@@ -131,7 +132,7 @@
       justify-content: flex-end;
       align-items: center;
       text-align: center;
-      border-radius: 20px;
+      /* border-radius: 20px; */
       box-shadow: 10, 20, 5;
     }
     
@@ -140,8 +141,8 @@
     }
     /* dded in new font family */
     .hero-pic h2 {
-      background-color: var(--light);
-      color: var(--tertiary);
+      background-color:rgb(91, 134, 134);
+      color: aliceblue;
       margin: 0;
       padding: 5px 10px;
       font-size: .3rem;
@@ -150,7 +151,10 @@
       font-size: large;
       font-family:'Times New Roman', Times, serif
     }
-  
+    .aboutMe{
+        font-style: italic;
+        color: aliceblue;
+    }
     /* edited class attributes */
     .page-wrapping {
       max-width: 88%;
@@ -181,7 +185,7 @@
       border-right: 4px solid var(--primary);
       font-size: 50px;
       line-height: 1.1;
-      color: black;
+      color: aliceblue;
      
     }
   
