@@ -22,3 +22,5 @@ make this accessible to those on phones and even desktops. The actualy links wil
 
 ### Links
 [DeployedApplication](<https://drae7299.github.io/Updated_Portfilio/>)
+
+Copyright <2021> <COPYRIGHT Andre Rodriguez>
