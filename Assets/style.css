@@ -306,22 +306,26 @@
     .tuneTip {
       background-image: url("./tipsShot.PNG");
       background-position: center;
+      background-repeat: no-repeat;
     }
     
     .codeQuiz {
       background-image: url("./quizShot.PNG");
       background-position: center;
+      background-repeat: no-repeat;
     }
     
     .passGen {
       background-image: url("./passGenShot.PNG");
       background-position: center;
+      background-repeat: no-repeat;
     }
     
   
     .dayPlanner {
       background-image: url("./plannerShot.PNG");
       background-position: center;
+      background-repeat: no-repeat;
     }
     
   
