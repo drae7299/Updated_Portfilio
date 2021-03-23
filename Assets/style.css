@@ -271,7 +271,7 @@
   
     
     .contact address a {
-      color: var(--tertiary);
+      color: ;
       padding: 5px;
       text-decoration: modified;
       font-size: 1.3rem;
@@ -304,23 +304,23 @@
     
     /*images for flex box items */
     .tuneTip {
-      background-image: url("./assets/download.jpg");
+      background-image: url("./tipsShot.PNG");
       background-position: center;
     }
     
-    .javascript {
-      background-image: url("./assets/javaa.png");
+    .codeQuiz {
+      background-image: url("./quizShot.PNG");
       background-position: center;
     }
     
-    .style {
-      background-image: url("./assets/style\ pic.png");
+    .passGen {
+      background-image: url("./passGenShot.PNG");
       background-position: center;
     }
     
   
-    .css {
-      background-image: url("./assets/css.jpg");
+    .dayPlanner {
+      background-image: url("./plannerShot.PNG");
       background-position: center;
     }
     
