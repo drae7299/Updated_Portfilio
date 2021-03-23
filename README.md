@@ -1,6 +1,6 @@
 # Updated_Portfilio
 
-## Please enjoy my new updated Portfolio after an additional 6 weeks of training has beem set into my normal work
+## Please enjoy my new updated Portfolio after an additional 6 weeks of training has been set into my normal work
 
 ## Description
 
