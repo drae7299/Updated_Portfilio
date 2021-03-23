@@ -10,8 +10,8 @@ details on what his likes are, who he is and even more!
 
 ### Features
 * Clickable links with new targets
-*Downloadable resume pdf link
-*You will notice that this page features a lot of flex attributes that 
+* Downloadable resume pdf link
+* You will notice that this page features a lot of flex attributes that 
 make this accessible to those on phones and even desktops. The actualy links will target either and addtional link, or a specific section on the page to gathe all resources needed when viewing for contact.
 
 
